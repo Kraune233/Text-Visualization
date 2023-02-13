@@ -1,0 +1,15 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+text-container {
+  display: flex;
+  color: rgb(40, 120, 255);
+
+
+
+}
